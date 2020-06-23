@@ -376,3 +376,9 @@ sftp-config.json
 # Binaries
 otbr
 otbr.old
+
+# Custom Tupamaro files
+data/XML/vocations.xml
+data/stages.lua
+data/npc/scripts/rashid.lua
+data/globalevents/scripts/spawn/grimvale_respawn.lua
