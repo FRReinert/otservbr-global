@@ -381,5 +381,4 @@ otbr.old
 data/XML/vocations.xml
 data/stages.lua
 data/npc/scripts/rashid.lua
-data/globalevents/scripts/spawn/grimvale_respawn.lua
 data/startup/tables/additional_map.lua
