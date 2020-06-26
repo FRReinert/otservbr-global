@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="32609" centery="31623" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32610" centery="31628" centerz="8" radius="1">
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32609" centery="31634" centerz="8" radius="1">
+		<monster name="Rotworm" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+</spawns>
