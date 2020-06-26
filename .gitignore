@@ -382,3 +382,4 @@ data/XML/vocations.xml
 data/stages.lua
 data/npc/scripts/rashid.lua
 data/startup/tables/additional_map.lua
+data/actions/scripts/tools/skinning.lua
